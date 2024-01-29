@@ -15,6 +15,7 @@ function HomeGrid() {
 		"var(--group-color6)",
 		"var(--group-color7)",
 	];
+
 	const navigate = useNavigate();
 
 	const { groupData, setFilter } = useStateContext();
