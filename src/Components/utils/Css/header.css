@@ -1,0 +1,84 @@
+.header {
+	background-color: var(--background-color);
+	border-bottom: 1px solid var(--light-gray);
+	padding: 0.5rem 1rem;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	z-index: 10;
+}
+.header-links a {
+	padding: 0.5rem 1rem;
+	height: 100%;
+	color: var(--text-color);
+	text-decoration: none;
+}
+.header-links a:hover,
+.header-links a.active {
+	color: var(--primary-color);
+}
+.burger {
+	display: none;
+}
+.drawer-links {
+	display: flex;
+	flex-direction: column; /* Ändert die Anordnung auf untereinander */
+	align-items: flex-start; /* Link-Text links ausrichten */
+}
+
+.drawer-links a {
+	padding: 0.5rem 1rem;
+	height: 100%;
+	color: var(--text-color);
+	text-decoration: none;
+}
+.drawer-links a:hover,
+.drawer-links a.active {
+	color: var(--primary-color);
+}
+
+.acc-btn,
+.acc-link {
+	margin-top: 20px;
+}
+.acc-link {
+	text-decoration: underline;
+}
+.acc-link:hover {
+	color: var(--text-color-hover);
+	cursor: pointer;
+}
+.menu-display {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.color-picker {
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+}
+.dark-mode-btn {
+	margin-bottom: 0.5rem;
+}
+.menu {
+	padding: 0.5rem 1rem;
+}
+.header-account {
+	cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+	.burger {
+		display: block;
+		margin-left: auto;
+	}
+	.header-links,
+	.btn-header-login,
+	.header-account {
+		display: none;
+	}
+}
+

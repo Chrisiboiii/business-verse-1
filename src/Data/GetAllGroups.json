@@ -1,0 +1,23 @@
+{
+	"groups": [
+		{
+			"name": "IT",
+			"description": "Sehr Tolle Beschreibung der Gruppe, sehr knorke",
+			"id": 1,
+			"items": ["1", "2", "3"]
+		},
+		{
+			"name": "Materialwirtschaft",
+			"description": "Sehr Tolle Beschreibung der Gruppe, sehr knorke",
+			"id": 2,
+			"items": ["3", "4"]
+		},
+		{
+			"name": "Marketing",
+			"description": "Sehr Tolle Beschreibung der Gruppe, sehr knorke",
+			"id": 3,
+			"items": ["5"]
+		}
+	]
+}
+

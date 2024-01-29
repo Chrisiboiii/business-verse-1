@@ -1,0 +1,82 @@
+html,
+body,
+#root,
+.App {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	min-height: 100vh;
+	box-sizing: border-box;
+	font-family: "Arial", sans-serif;
+	background-color: var(--background-color);
+	color: var(--text-color);
+	display: flex;
+	flex-direction: column;
+	scrollbar-width: thin;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+#root::-webkit-scrollbar {
+	width: 8px;
+}
+
+#root::-webkit-scrollbar-track {
+	background-color: var(--text-color-light);
+	border-radius: 0.5rem;
+}
+
+#root::-webkit-scrollbar-thumb {
+	background-color: var(--secondary-color);
+}
+.App,
+.header {
+	transition: all 0.5s ease-in-out;
+}
+
+:root {
+	display: flex;
+	flex-direction: column;
+	--primary-color: #165598;
+	--secondary-color: #113e65;
+	--tertiary-color: #0b2849;
+
+	--background-color: #f3f3f3;
+	--background-color-dark: #1d1f27;
+
+	--light-gray: #cecece;
+	--gray: #a0a0a0;
+
+	--text-color: #1a2021;
+	--text-color-hover: #1a202165;
+	--text-color-light: #f3f3f3;
+	--text-color-light-hover: #f3f3f365;
+
+	--box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+	--free-color: #4caf50;
+	--group-color1: #afc5ff;
+	--group-color2: #c3beff;
+	--group-color3: #ffc8f0;
+	--group-color4: #61a9c8;
+	--group-color5: #8397ff;
+	--group-color6: #ff89fa;
+	--group-color7: #9bb7ff;
+	--group-color8: #f19aff;
+
+	--group-text-font: "Montserrat";
+
+	--group-border: 1px solid #000;
+}
+h1,
+h2,
+h3,
+h4 {
+	color: var(--primary-color);
+}
+p {
+	margin: 0;
+}
+

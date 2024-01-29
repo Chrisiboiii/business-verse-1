@@ -1,0 +1,42 @@
+
+Letzte Aktualisierung: 09.01.2024
+
+<h3>1. Allgemeine Hinweise</h3>
+Die folgende Datenschutzerklärung klärt darüber auf, welche Art, Umfang und Zwecke personenbezogener Daten durch [Ihr Unternehmen/Ihre Website] (nachfolgend "wir" oder "uns") verarbeitet werden.
+
+Personenbezogene Daten sind Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen. Dazu gehören beispielsweise Name, Adresse, E-Mail-Adresse oder Nutzerverhalten.
+
+<h3>2. Verantwortliche Stelle</h3>
+Verantwortliche Stelle im Sinne der Datenschutzgesetze ist:
+
+Tom 87
+Lohrtalweg 87
+Tom87@info.de
+
+<h3>3. Arten der verarbeiteten Daten</h3>
+Kontaktdaten (z.B., Name, Adresse, E-Mail, Telefonnummer)
+Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten)
+Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen)
+<h3>4. Zwecke der Datenverarbeitung</h3>
+Wir verarbeiten personenbezogene Daten zu folgenden Zwecken:
+
+[Angabe der Zwecke, z.B., Bearbeitung von Anfragen, Bereitstellung von Dienstleistungen, Verbesserung der Website]
+<h3>5. Rechtsgrundlagen der Verarbeitung</h3>
+Die Verarbeitung personenbezogener Daten erfolgt auf folgender Rechtsgrundlage:
+
+[Angabe der Rechtsgrundlage, z.B., Einwilligung, Vertragserfüllung, rechtliche Verpflichtung]
+<h3>6. Datenübermittlung an Dritte</h3>
+Eine Übermittlung von personenbezogenen Daten an Dritte erfolgt nur, wenn dies zur Erfüllung unserer vertraglichen Pflichten erforderlich ist oder auf Grundlage Ihrer Einwilligung. Eine Weitergabe zu anderen Zwecken erfolgt nicht.
+
+<h3>7. Cookies</h3>
+Diese Website verwendet Cookies. Nähere Informationen dazu und zu Ihren Rechten als Nutzer finden Sie in unserer [Cookie-Richtlinie].
+
+<h3>8. Ihre Rechte als betroffene Person</h3>
+Recht auf Auskunft
+Recht auf Berichtigung
+Recht auf Löschung
+Recht auf Einschränkung der Verarbeitung
+Recht auf Datenübertragbarkeit
+Widerspruchsrecht gegen die Verarbeitung
+<h3>9. Datensicherheit</h3>
+Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um Ihre Daten gegen zufällige oder vorsätzliche Manipulation, Verlust, Zerstörung oder den Zugriff unberechtigter Personen zu schützen.

@@ -1,0 +1,87 @@
+{
+	"groups": [
+		{
+			"id": "123",
+			"name": "System 1",
+			"items": [
+				{
+					"id": "234",
+					"name": "Kunde",
+					"description": "Ein kunde Kauft sachen",
+					"synonyms": [
+						{
+							"name": "guter Kunde",
+							"software": "SAP",
+							"args": [
+								"Kunde",
+								"Kundennummer",
+								"Kundenname",
+								"Kundenadresse",
+								"Kundenort",
+								"Kundenland",
+								"Kundenplz",
+								"Kundenemail",
+								"Kundenfax",
+								"Kundentelefon",
+								"Kundenumsatz",
+								"Kundenrabatt",
+								"Kundenk"
+							]
+						}
+					]
+				},
+				{
+					"id": "244",
+					"name": "Kunde2",
+					"description": "Ein kunde Kauft sachen",
+					"synonyms": [
+						{
+							"name": "guterer Kunde",
+							"software": "Sage",
+							"args": [
+								"Kunde",
+								"Kundennummer",
+								"Kundenname",
+								"Kundenadresse",
+								"Kundenort",
+								"Kundenland",
+								"Kundenplz"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "12344",
+			"name": "System 2",
+			"items": [
+				{
+					"id": "2344",
+					"name": "ERP",
+					"description": "Macht alles was es muss",
+					"synonyms": [
+						{
+							"name": "gutes ERP",
+							"software": "Sage",
+							"args": [
+								"ERPnummer",
+								"ERPname",
+								"ERPadresse",
+								"ERPort",
+								"ERPLand",
+								"ERPplz",
+								"ERPemail",
+								"ERPfax",
+								"ERPtelefon",
+								"ERPumsatz",
+								"ERPrabatt",
+								"ERPk"
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

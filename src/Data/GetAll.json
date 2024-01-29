@@ -1,0 +1,117 @@
+{
+	"items": [
+		{
+			"id": "1",
+			"name": "Kunde",
+			"description": "Ein Kunde ist eine Person oder Unternehmen der bei dem eigenen Unternehmen Einkauft",
+			"synonyms": [
+				{
+					"name": "Client",
+					"software": "SAP",
+					"args": [
+						"Kundennummer",
+						"Name",
+						"Adresse",
+						"Telefonnummer",
+						"E-Mail",
+						"Umsatz",
+						"Kontaktpersonen",
+						"Kontakthistorie",
+						"Angebote",
+						"Aufträge",
+						"Rechnungen",
+						"Zahlungen",
+						"Kont"
+					]
+				},
+				{
+					"name": "Clientel",
+					"software": "Pups",
+					"args": [
+						"Name",
+						"Adresse",
+						"Telefonnummer",
+						"E-Mail",
+						"Umsatz",
+						"Kontaktpersonen",
+						"Kontakthistorie",
+						"Angebote",
+						"Aufträge",
+						"Rechnungen",
+						"Zahlungen",
+						"Kont"
+					]
+				}
+			]
+		},
+		{
+			"id": "2",
+			"name": "Produkt",
+			"description": "Ein Produkt ist ein Artikel, der verkauft wird",
+			"synonyms": [
+				{
+					"name": "Artikel",
+					"software": "SAP",
+					"args": ["Artikelnummer", "Name", "Preis", "Beschreibung", "Lagerbestand"]
+				},
+				{
+					"name": "Ware",
+					"software": "Pups",
+					"args": ["Name", "Preis", "Beschreibung", "Lagerbestand"]
+				}
+			]
+		},
+		{
+			"id": "3",
+			"name": "Bestellung",
+			"description": "Eine Bestellung ist eine Anforderung zum Kauf eines Produkts",
+			"synonyms": [
+				{
+					"name": "Auftrag",
+					"software": "SAP",
+					"args": ["Bestellnummer", "Kunde", "Produkt", "Menge", "Preis", "Lieferdatum"]
+				},
+				{
+					"name": "Order",
+					"software": "Pups",
+					"args": ["Bestellnummer", "Kunde", "Produkt", "Menge", "Preis", "Lieferdatum"]
+				}
+			]
+		},
+		{
+			"id": "4",
+			"name": "Rechnung",
+			"description": "Eine Rechnung ist ein Dokument, das eine Liste der gekauften Produkte enthält",
+			"synonyms": [
+				{
+					"name": "Invoice",
+					"software": "SAP",
+					"args": ["Rechnungsnummer", "Kunde", "Produkte", "Gesamtpreis", "Zahlungsdatum"]
+				},
+				{
+					"name": "Bill",
+					"software": "Pups",
+					"args": ["Rechnungsnummer", "Kunde", "Produkte", "Gesamtpreis", "Zahlungsdatum"]
+				}
+			]
+		},
+		{
+			"id": "5",
+			"name": "Lieferung",
+			"description": "Eine Lieferung ist der Prozess des Versands eines Produkts an einen Kunden",
+			"synonyms": [
+				{
+					"name": "Versand",
+					"software": "SAP",
+					"args": ["Liefernummer", "Kunde", "Produkt", "Menge", "Lieferdatum", "Lieferadresse"]
+				},
+				{
+					"name": "Delivery",
+					"software": "Pups",
+					"args": ["Liefernummer", "Kunde", "Produkt", "Menge", "Lieferdatum", "Lieferadresse"]
+				}
+			]
+		}
+	]
+}
+
